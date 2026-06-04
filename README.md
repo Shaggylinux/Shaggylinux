@@ -1,2 +1,2 @@
 # TECNOLOGIAS / TECNOLOGIES
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,mysql,linux,debian,arch,docker,git,github,godot,gtk,neovim,vim,vscode,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,mysql,linux,debian,arch,docker,git,github,godot,gtk,neovim,vim,vscode,windows, fedora)](https://skillicons.dev)
